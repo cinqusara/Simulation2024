@@ -1,0 +1,4 @@
+Information,Value
+Acceptance Waiting, 27
+Waiting Room, 0
+Total Patients, 135
